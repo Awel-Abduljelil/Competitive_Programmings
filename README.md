@@ -1,89 +1,136 @@
-# CSEC_CPD
+# Competitive Programming Solutions
 
-Continuous Professional Development (CPD) repository for cybersecurity professionals and teams.
+A comprehensive repository of competitive programming solutions and algorithms, primarily written in Python and C++.
 
 ## Overview
 
-This repository serves as a centralized hub for tracking, managing, and sharing continuous professional development activities and resources. It's designed to help cybersecurity professionals maintain and document their ongoing learning and skill development.
+This repository contains solutions to competitive programming problems from various online judges and coding platforms. It serves as a learning resource and reference for competitive programming techniques, algorithms, and data structures.
+
+## Language Composition
+
+- **Python**: 74.5% - Primary language for solutions and algorithm implementations
+- **C++**: 25.5% - High-performance implementations for time-critical problems
 
 ## Features
 
-- **CPD Tracking**: Monitor and log professional development activities
-- **Resource Management**: Organize and share learning materials and courses
-- **Progress Documentation**: Keep records of certifications, training, and skill development
-- **Team Collaboration**: Share knowledge and best practices across teams
+- **Problem Solutions**: Organized solutions from popular platforms (LeetCode, Codeforces, HackerRank, etc.)
+- **Algorithm Library**: Common algorithms and data structures implementations
+- **Multiple Approaches**: Different solutions for the same problem showing various strategies
+- **Well-Commented Code**: Detailed explanations for complex solutions
+- **Test Cases**: Example test cases and expected outputs
+
+## Repository Structure
+
+```
+Competitive_Programmings/
+├── README.md              # This file
+├── python/                # Python solutions
+│   ├── arrays/
+│   ├── strings/
+│   ├── graphs/
+│   ├── dynamic_programming/
+│   └── ...
+├── cpp/                   # C++ solutions
+│   ├── arrays/
+│   ├── strings/
+│   ├── graphs/
+│   ├── dynamic_programming/
+│   └── ...
+└── templates/             # Code templates and utilities
+```
 
 ## Getting Started
 
 ### Prerequisites
 
-- Git installed on your local machine
-- A GitHub account with access to this repository
+- Python 3.x (for Python solutions)
+- C++11 or higher (for C++ solutions)
+- A code editor or IDE (VS Code, CLion, etc.)
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/awexa-web/CPD.git
-cd CPD
+git clone https://github.com/awexa-web/Competitive_Programmings.git
+cd Competitive_Programmings
 ```
 
-2. Explore the repository structure to understand the organization of CPD resources
+2. Navigate to the language and topic of your choice:
+```bash
+cd python/arrays
+# or
+cd cpp/graphs
+```
 
 ### Usage
 
-1. Navigate to relevant sections for your area of focus
-2. Review existing documentation and resources
-3. Contribute your own CPD activities and learnings
-4. Keep your professional development log updated
+1. Browse solutions organized by data structure and algorithm type
+2. Read the comments to understand the approach and complexity analysis
+3. Run solutions against test cases
+4. Modify and experiment with different approaches
 
-## Repository Structure
+## Topics Covered
 
-```
-CPD/
-├── README.md                 # This file
-├── docs/                     # Documentation and guides
-├── resources/                # Learning materials and references
-├── activities/               # CPD activity logs
-└── certifications/           # Certification tracking
-```
+- Arrays and Strings
+- Linked Lists
+- Trees and Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Bit Manipulation
+- Recursion and Backtracking
+- Sorting and Searching
+- Hash Maps and Sets
+- Heaps and Priority Queues
+- Stacks and Queues
 
 ## Contributing
 
-We encourage contributions! Please follow these guidelines:
+We welcome contributions! Please follow these guidelines:
 
 1. Create a new branch for your changes:
 ```bash
-git checkout -b feature/your-branch-name
+git checkout -b feature/add-solution-[problem-name]
 ```
 
-2. Commit your changes with clear, descriptive messages:
+2. Add your solution with clear comments and complexity analysis:
 ```bash
-git commit -m "Add CPD activity: [description]"
+# Include time complexity, space complexity, and problem description
 ```
 
-3. Push to your branch:
+3. Commit your changes with descriptive messages:
 ```bash
-git push origin feature/your-branch-name
+git commit -m "Add solution: [problem name] in [language]"
 ```
 
-4. Submit a pull request with a clear description of your changes
+4. Push to your branch:
+```bash
+git push origin feature/add-solution-[problem-name]
+```
 
-## Documentation
-
-For detailed information about specific topics, please refer to the documentation in the `docs/` folder.
+5. Submit a pull request with details about the problem and solution approach
 
 ## Resources
 
-Key resources for cybersecurity professionals:
-- Industry certifications (CISSP, CEH, OSCP, etc.)
-- Online learning platforms
-- Research papers and technical articles
-- Conference presentations and webinars
+Popular competitive programming platforms:
+- [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [AtCoder](https://atcoder.jp/)
+- [Project Euler](https://projecteuler.net/)
+
+## Complexity Analysis Guide
+
+For each solution, we document:
+- **Time Complexity**: How the algorithm scales with input size
+- **Space Complexity**: Memory requirements of the solution
+- **Approach**: Strategy used to solve the problem
 
 ## Support
 
-For questions, issues, or suggestions, please open an issue in the GitHub repository.
+For questions, issues, or suggestions:
+1. Open an issue in the GitHub repository
+2. Provide context about which problem/solution you're referring to
+3. Include error messages or expected vs actual output
 
 ## License
 
@@ -91,9 +138,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Thanks to all contributors who help maintain and improve this CPD resource.
+Thanks to all contributors who help improve this competitive programming resource.
 
 ---
 
 **Last Updated**: June 2026
-**Maintained by**: CSEC Team
+**Repository**: Competitive Programming Solutions

@@ -7,3 +7,4 @@
 | 5 | [C - In Search of an Easy Problem](./Codeforces/basic/C%20-%20In%20Search%20of%20an%20Easy%20Problem) | [Codeforces](https://codeforces.com/gym/700833/problem/C) | basic | 27 Jun 2026 | 09:16 am |
 | 6 | [F - Contest Proposal](./Codeforces/basic/F%20-%20Contest%20Proposal) | [Codeforces](https://codeforces.com/gym/700833/problem/F) | basic | 27 Jun 2026 | 09:48 am |
 | 7 | [E - Long Long](./Codeforces/basic/E%20-%20Long%20Long) | [Codeforces](https://codeforces.com/gym/700833/problem/E) | basic | 27 Jun 2026 | 10:20 am |
+| 8 | [D - Game of Mathletes](./Codeforces/basic/D%20-%20Game%20of%20Mathletes) | [Codeforces](https://codeforces.com/gym/700833/problem/D) | basic | 27 Jun 2026 | 10:28 am |

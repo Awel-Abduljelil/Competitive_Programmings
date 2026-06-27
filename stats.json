@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Longest_Even_Odd_Subarray_With_Threshold": true,
@@ -16,10 +16,11 @@
     "Codeforces_A_-_Vanya_and_Fence": true,
     "Codeforces_B_-_Calculating_Function": true,
     "Codeforces_C_-_In_Search_of_an_Easy_Problem": true,
-    "Codeforces_F_-_Contest_Proposal": true
+    "Codeforces_F_-_Contest_Proposal": true,
+    "Codeforces_E_-_Long_Long": true
   },
   "activityHistory": {
-    "2026-06-27": 6
+    "2026-06-27": 7
   },
   "todayProblems": [
     "Longest Even Odd Subarray With Threshold",
@@ -27,6 +28,7 @@
     "A - Vanya and Fence",
     "B - Calculating Function",
     "C - In Search of an Easy Problem",
-    "F - Contest Proposal"
+    "F - Contest Proposal",
+    "E - Long Long"
   ]
 }

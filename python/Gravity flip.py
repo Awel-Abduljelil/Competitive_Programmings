@@ -1,4 +1,0 @@
-n = int(input())
-columns = list(map(int, input().split()))
-columns.sort()
-print(" ".join(map(str, columns)))

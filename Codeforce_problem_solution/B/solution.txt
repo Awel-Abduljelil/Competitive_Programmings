@@ -1,0 +1,34 @@
+t = int(input())
+
+for _ in range(t):
+    n = int(input())
+    a = list(map(int, input().split()))
+
+    a.sort()
+
+    blue = a[0] + a[1]
+    red = a[n - 1]
+
+    i = 2
+    j = n - 2
+
+    ok = False
+
+    while i <= j:
+        if red > blue:
+            ok = True
+            break
+
+        blue += a[i]
+        red += a[j]
+
+        i += 1
+        j -= 1
+
+    if red > blue:
+        ok = True
+
+    if ok:
+        print("YES")
+    else:
+        print("NO")

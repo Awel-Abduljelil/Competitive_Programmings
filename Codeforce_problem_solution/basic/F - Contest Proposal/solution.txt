@@ -1,0 +1,13 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    lst1 = list(map(int, input().split()))
+    lst2 = list(map(int, input().split()))
+    w =0
+    for j in range(n):
+        if lst1[j] > lst2[j]:
+            lst1.append(lst2[j])
+            lst1.sort()
+            lst1.pop()
+            w += 1
+    print(w)

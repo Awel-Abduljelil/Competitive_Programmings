@@ -1,0 +1,17 @@
+t = int(input())
+
+for _ in range(t):
+    n ,m= map(int,input().split())
+    a = list(map(int,input().split()))
+    mx = max(a)
+    lst = []
+    for i in range(m):
+        c, l , r = map(str,input().split())
+        if int(l) <= mx <= int(r):
+            if c == '+':
+                mx += 1
+            elif c == '-':
+                mx  -= 1
+        lst.append(mx)
+
+    print(*lst)

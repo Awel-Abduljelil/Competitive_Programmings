@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+using vi = vector<int>;
+
+void solve() {
+
+    int n;
+    cin>>n;
+
+    vi ans;
+    if(n%2) ans.push_back(n-1);
+    else ans.push_back(n);
+
+    for(int i=2;i<n;i++){
+        if(i%2) ans.push_back(i-1);
+        else ans.push_back(i+1);
+    }
+    ans.push_back(1);
+
+    for(int num:ans) cout<<num<<" ";
+    cout<<'\n';
+
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int t;
+    cin >> t;
+    while (t--) solve();
+}

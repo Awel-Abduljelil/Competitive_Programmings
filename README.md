@@ -9,3 +9,4 @@
 | 7 | [1380A - Three Indices](./Codeforces/basic/1380A%20-%20Three%20Indices) | [Codeforces](https://codeforces.com/problemset/problem/1380/A) | basic | 04 Jul 2026 | 02:09 pm |
 | 8 | [2007B - Index and Maximum Value](./Codeforces/basic/2007B%20-%20Index%20and%20Maximum%20Value) | [Codeforces](https://codeforces.com/problemset/problem/2007/B) | basic | 04 Jul 2026 | 02:50 pm |
 | 9 | [2227B - Party Monster](./Codeforces/basic/2227B%20-%20Party%20Monster) | [Codeforces](https://codeforces.com/problemset/problem/2227/B) | basic | 04 Jul 2026 | 05:48 pm |
+| 10 | [2189C1 - XOR Convenience Easy Version](./Codeforces/basic/2189C1%20-%20XOR%20Convenience%20Easy%20Version) | [Codeforces](https://codeforces.com/problemset/problem/2189/C1) | basic | 04 Jul 2026 | 05:48 pm |

@@ -1,0 +1,17 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    p = list(map(int, input().split()))
+    i = 0
+    j = 1
+    k = 2
+    while k < n:
+        if p[i] < p[j] and p[j] > p[k]:
+            print("YES")
+            print(i + 1, j + 1, k + 1)
+            break
+        i += 1
+        j += 1
+        k += 1
+    else:
+        print("NO")

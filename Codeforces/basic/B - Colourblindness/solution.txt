@@ -1,0 +1,17 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    a = list(input())
+    b = list(input())
+    for i in range(n):
+        if a[i] == 'B' and b[i] == 'G':
+            continue
+        elif a[i] == 'G' and b[i] == 'B':
+            continue
+        elif a[i] == b[i]:
+            continue
+        else:
+            print("NO")
+            break
+    else:
+        print("YES")

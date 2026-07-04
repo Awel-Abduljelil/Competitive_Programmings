@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-04",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 15
+    "basic": 16
   },
   "syncedProblems": {
     "LeetCode_Longest_Even_Odd_Subarray_With_Threshold": true,
@@ -27,12 +27,13 @@
     "Codeforces_1789B_-_Serval_and_Inversion_Magic": true,
     "Codeforces_1380A_-_Three_Indices": true,
     "Codeforces_2007B_-_Index_and_Maximum_Value": true,
-    "Codeforces_2189C1_-_XOR_Convenience_Easy_Version": true
+    "Codeforces_2189C1_-_XOR_Convenience_Easy_Version": true,
+    "Codeforces_1921A_-_Square": true
   },
   "activityHistory": {
     "2026-06-27": 8,
     "2026-07-03": 2,
-    "2026-07-04": 7
+    "2026-07-04": 8
   },
   "todayProblems": [
     "B - Colourblindness",
@@ -41,6 +42,7 @@
     "1789B - Serval and Inversion Magic",
     "1380A - Three Indices",
     "2007B - Index and Maximum Value",
-    "2189C1 - XOR Convenience Easy Version"
+    "2189C1 - XOR Convenience Easy Version",
+    "1921A - Square"
   ]
 }

@@ -4,3 +4,4 @@
 | 2 | [1746B - Rebellion](./Codeforces/basic/1746B%20-%20Rebellion) | [Codeforces](https://codeforces.com/problemset/problem/1746/B) | basic | 03 Jul 2026 | 07:55 pm |
 | 3 | [B - Colourblindness](./Codeforces/basic/B%20-%20Colourblindness) | [Codeforces](https://codeforces.com/gym/702173/problem/B) | basic | 04 Jul 2026 | 09:15 am |
 | 4 | [C - Only One Digit](./Codeforces/basic/C%20-%20Only%20One%20Digit) | [Codeforces](https://codeforces.com/gym/702173/problem/C) | basic | 04 Jul 2026 | 09:46 am |
+| 5 | [F - Number of Pairs](./Codeforces/basic/F%20-%20Number%20of%20Pairs) | [Codeforces](https://codeforces.com/gym/702173/problem/F) | basic | 04 Jul 2026 | 10:26 am |

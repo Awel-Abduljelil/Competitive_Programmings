@@ -1,0 +1,26 @@
+t = int(input())
+for _ in range(t):
+    n, l, r = map(int, input().split())
+    a = list(map(int, input().split()))
+
+    a.sort()
+
+    countR = 0
+    left = 0
+    right = n-1
+    while left < right:
+        if a[left] + a[right] <= r:
+            countR += (right - left)
+            left += 1
+        else:
+            right -= 1
+    countL = 0
+    left = 0
+    right = n-1
+    while left < right:
+        if a[left] + a[right] <= (l-1):
+            countL += (right - left)
+            left += 1
+        else:
+            right -= 1
+    print(countR-countL)

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-04",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "LeetCode_Longest_Even_Odd_Subarray_With_Threshold": true,
@@ -26,12 +26,13 @@
     "Codeforces_F_-_Number_of_Pairs": true,
     "Codeforces_1789B_-_Serval_and_Inversion_Magic": true,
     "Codeforces_1380A_-_Three_Indices": true,
-    "Codeforces_2007B_-_Index_and_Maximum_Value": true
+    "Codeforces_2007B_-_Index_and_Maximum_Value": true,
+    "Codeforces_2227B_-_Party_Monster": true
   },
   "activityHistory": {
     "2026-06-27": 8,
     "2026-07-03": 2,
-    "2026-07-04": 6
+    "2026-07-04": 7
   },
   "todayProblems": [
     "B - Colourblindness",
@@ -39,6 +40,7 @@
     "F - Number of Pairs",
     "1789B - Serval and Inversion Magic",
     "1380A - Three Indices",
-    "2007B - Index and Maximum Value"
+    "2007B - Index and Maximum Value",
+    "2227B - Party Monster"
   ]
 }

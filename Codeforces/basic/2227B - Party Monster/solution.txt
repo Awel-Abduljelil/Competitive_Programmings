@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+
+void solve9(){
+    ll tt;
+    cin>>tt;
+    while(tt--){
+        int n;cin>>n;
+        string str;
+        cin>>str;
+        map<char, int>char_map;
+        for(auto&ch:str) char_map[ch]++;
+        //for(auto&c:char_map) cout<<c.first<<" "<<c.second;
+
+        //cout<<char_map['(']<<" "<<char_map[')']<<endl;
+        if(char_map['('] == char_map[')']){
+            cout<<"yEs"<<endl;
+        }else{
+            cout<<"nO"<<endl;
+        }
+
+    }
+}
+int 
+main(){
+
+    solve9();
+}
+

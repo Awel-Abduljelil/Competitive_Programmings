@@ -8,3 +8,4 @@
 | 6 | [1789B - Serval and Inversion Magic](./Codeforces/basic/1789B%20-%20Serval%20and%20Inversion%20Magic) | [Codeforces](https://codeforces.com/problemset/problem/1789/B) | basic | 04 Jul 2026 | 02:01 pm |
 | 7 | [1380A - Three Indices](./Codeforces/basic/1380A%20-%20Three%20Indices) | [Codeforces](https://codeforces.com/problemset/problem/1380/A) | basic | 04 Jul 2026 | 02:09 pm |
 | 8 | [2007B - Index and Maximum Value](./Codeforces/basic/2007B%20-%20Index%20and%20Maximum%20Value) | [Codeforces](https://codeforces.com/problemset/problem/2007/B) | basic | 04 Jul 2026 | 02:50 pm |
+| 9 | [2227B - Party Monster](./Codeforces/basic/2227B%20-%20Party%20Monster) | [Codeforces](https://codeforces.com/problemset/problem/2227/B) | basic | 04 Jul 2026 | 05:48 pm |

@@ -1,0 +1,7 @@
+t = int(input())
+for _ in range(t):
+    a = list(input())
+    b = []
+    for i in a:
+        b.append(int(i))
+    print(min(b))

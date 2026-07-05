@@ -10,3 +10,4 @@
 | 8 | [2007B - Index and Maximum Value](./Codeforces/basic/2007B%20-%20Index%20and%20Maximum%20Value) | [Codeforces](https://codeforces.com/problemset/problem/2007/B) | basic | 04 Jul 2026 | 02:50 pm |
 | 9 | [2227B - Party Monster](./Codeforces/basic/2227B%20-%20Party%20Monster) | [Codeforces](https://codeforces.com/problemset/problem/2227/B) | basic | 04 Jul 2026 | 05:48 pm |
 | 10 | [1921A - Square](./Codeforces/basic/1921A%20-%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1921/A) | basic | 04 Jul 2026 | 05:48 pm |
+| 11 | [1709B - Also Try Minecraft](./Codeforces/basic/1709B%20-%20Also%20Try%20Minecraft) | [Codeforces](https://codeforces.com/problemset/problem/1709/B) | basic | 05 Jul 2026 | 03:18 pm |

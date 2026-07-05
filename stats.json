@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-07-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
     "medium": 1,
     "hard": 0,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "LeetCode_Longest_Even_Odd_Subarray_With_Threshold": true,
@@ -29,15 +29,17 @@
     "Codeforces_2007B_-_Index_and_Maximum_Value": true,
     "Codeforces_2189C1_-_XOR_Convenience_Easy_Version": true,
     "Codeforces_1921A_-_Square": true,
-    "Codeforces_1709B_-_Also_Try_Minecraft": true
+    "Codeforces_1709B_-_Also_Try_Minecraft": true,
+    "Codeforces_1807D_-_Odd_Queries": true
   },
   "activityHistory": {
     "2026-06-27": 8,
     "2026-07-03": 2,
     "2026-07-04": 8,
-    "2026-07-05": 1
+    "2026-07-05": 2
   },
   "todayProblems": [
-    "1709B - Also Try Minecraft"
+    "1709B - Also Try Minecraft",
+    "1807D - Odd Queries"
   ]
 }

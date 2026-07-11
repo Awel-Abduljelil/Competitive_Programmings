@@ -6,16 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 16 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (2)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (14)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (4)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -23,25 +26,62 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/344/A%20-%20Magnets/solution.py) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/427/A%20-%20Police%20Recruits/solution.py) |
+| 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/431/A%20-%20Black%20Square/solution.py) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.py) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
 
 ---
 

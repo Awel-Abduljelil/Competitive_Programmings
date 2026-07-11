@@ -6,18 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 7 |
+| 32 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (3)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (14)
-- [math](#math) (2)
+- [brute force](#brute-force) (7)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (24)
+- [math](#math) (9)
+- [number theory](#number-theory) (1)
+- [probabilities](#probabilities) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (7)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -26,9 +29,19 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/268/A%20-%20Games/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 
 ### greedy
 
@@ -37,6 +50,9 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 
 ### implementation
@@ -45,9 +61,13 @@
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
+| 265A | [Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/265/A%20-%20Colorful%20Stones%20(Simplified%20Edition)/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
+| 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/344/A%20-%20Magnets/solution.py) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
@@ -55,15 +75,40 @@
 | 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/431/A%20-%20Black%20Square/solution.py) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
+| 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.py) |
+| 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
+| 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
 
 ### sortings
 
@@ -76,9 +121,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.py) |
 
 ### two pointers
 

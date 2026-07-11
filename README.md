@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (3)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (14)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
@@ -28,6 +28,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 
 ### greedy
 
@@ -36,6 +37,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 
 ### implementation
 
@@ -61,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 
 ### sortings
 

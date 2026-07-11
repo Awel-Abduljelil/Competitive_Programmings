@@ -1,0 +1,38 @@
+<h2><a href="https://codeforces.com/contest/1619/problem/A" target="_blank" rel="noopener noreferrer">1619A — Square String?</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Python 3 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1619A](https://codeforces.com/contest/1619/problem/A) |
+
+## Topics
+`implementation` `strings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Square String?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>A string is called <span class="tex-font-style-it">square</span> if it is some string written twice in a row. For example, the strings "<span class="tex-font-style-tt">aa</span>", "<span class="tex-font-style-tt">abcabc</span>", "<span class="tex-font-style-tt">abab</span>" and "<span class="tex-font-style-tt">baabaa</span>" are square. But the strings "<span class="tex-font-style-tt">aaa</span>", "<span class="tex-font-style-tt">abaaab</span>" and "<span class="tex-font-style-tt">abcdabc</span>" are not square.</p><p>For a given string $$$s$$$ determine if it is square.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains an integer $$$t$$$ ($$$1 \le t \le 100$$$) —the number of test cases.</p><p>This is followed by $$$t$$$ lines, each containing a description of one test case. The given strings consist only of lowercase Latin letters and have lengths between $$$1$$$ and $$$100$$$ inclusive.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output on a separate line:</p><ul> <li> <span class="tex-font-style-tt">YES</span> if the string in the corresponding test case is square, </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p>You can output <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> in any case (for example, strings <span class="tex-font-style-tt">yEs</span>, <span class="tex-font-style-tt">yes</span>, <span class="tex-font-style-tt">Yes</span> and <span class="tex-font-style-tt">YES</span> will be recognized as a positive response).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005617964837946099" id="id0009325432100772169" class="input-output-copier">Copy</div></div><pre id="id005617964837946099">10
+a
+aa
+aaa
+aaaa
+abab
+abcabc
+abacaba
+xxyy
+xyyx
+xyxy
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00053126627553820804" id="id008877258033762103" class="input-output-copier">Copy</div></div><pre id="id00053126627553820804">NO
+YES
+NO
+YES
+YES
+YES
+NO
+NO
+NO
+YES
+</pre></div></div></div>

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 11 |
+| 36 | 11 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (2)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (27)
+- [data structures](#data-structures) (3)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (28)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
@@ -52,6 +52,7 @@
 |---|---------|------------|----------|
 | 1200A | [Hotelier](https://codeforces.com/contest/1200/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1200/A%20-%20Hotelier/solution.py) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
 
 ### greedy
 
@@ -62,6 +63,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
@@ -96,6 +98,7 @@
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.py) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
+| 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 
 ### math

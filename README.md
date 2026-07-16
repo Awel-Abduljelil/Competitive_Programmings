@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 11 |
+| 38 | 11 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (4)
+- [data structures](#data-structures) (5)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (28)
+- [implementation](#implementation) (29)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (2)
 
@@ -55,6 +55,7 @@
 | 1497A | [Meximization](https://codeforces.com/contest/1497/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1497/A%20-%20Meximization/solution.py) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1760/C%20-%20Advantage/solution.py) |
 
 ### greedy
 
@@ -102,6 +103,7 @@
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1760/C%20-%20Advantage/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 
 ### math
@@ -137,6 +139,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 1497A | [Meximization](https://codeforces.com/contest/1497/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1497/A%20-%20Meximization/solution.py) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1760/C%20-%20Advantage/solution.py) |
 
 ### strings
 

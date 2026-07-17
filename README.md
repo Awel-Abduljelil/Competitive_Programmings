@@ -6,16 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 11 |
+| 39 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (10)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (5)
-- [greedy](#greedy) (10)
+- [data structures](#data-structures) (6)
+- [games](#games) (1)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (29)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
@@ -25,6 +27,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.py) |
 
 ### brute force
 
@@ -38,6 +46,7 @@
 | 1200A | [Hotelier](https://codeforces.com/contest/1200/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1200/A%20-%20Hotelier/solution.py) |
 | 1497A | [Meximization](https://codeforces.com/contest/1497/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1497/A%20-%20Meximization/solution.py) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 
@@ -56,6 +65,13 @@
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1760/C%20-%20Advantage/solution.py) |
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.py) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.py) |
 
 ### greedy
 
@@ -69,6 +85,7 @@
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/A%20-%20Lex%20String/solution.py) |
 | 1714B | [Remove Prefix](https://codeforces.com/contest/1714/problem/B) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1714/B%20-%20Remove%20Prefix/solution.py) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
+| 1956A | [Nene's Game](https://codeforces.com/contest/1956/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1956/A%20-%20Nene's%20Game/solution.py) |
 | 2146A | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2146/A%20-%20Equal%20Occurrences/solution.py) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Python 3](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.py) |
 

@@ -1,0 +1,16 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    p = list(map(int,input().split()))
+    q = sorted(p)
+    if n==1:
+        print(-1)
+        continue
+    for i in range(n):
+        if p[i] == q[i]:
+            if i < n-1:
+                q[i], q[i+1] = q[i+1], q[i]
+            else:
+                q[i], q[i-1] = q[i-1], q[i]
+ 
+    print(*q)

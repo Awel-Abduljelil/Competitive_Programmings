@@ -1,0 +1,38 @@
+# t = int(input())
+# for _ in range(t):
+#     n= int(input())
+#     a = list(map(str , input().split()))
+#     b = list(map(str , input().split()))
+#     c = list(map(str , input().split()))
+#     for i in range(n):
+#         for j in range(3):
+#             if a[i][j] in b[i] and a[i][j] not in c[i] :
+from collections import Counter               
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    a = list(map(str,input().split()))
+    b = list(map(str,input().split()))
+    c = list(map(str,input().split()))
+    total = Counter(a+b+c)
+    score_1 = 0
+    score_2 = 0
+    score_3 = 0
+    for i in a:
+        if total[i] == 1:
+            score_1 += 3
+        elif total[i] == 2:
+            score_1 += 1
+    for i in b:
+        if total[i] == 1:
+            score_2 += 3
+        elif total[i] == 2:
+            score_2 += 1
+    for i in c:
+        if total[i] == 1:
+            score_3 += 3
+        elif total[i] == 2:
+            score_3 += 1
+    print(score_1, score_2, score_3)
+  
+ 

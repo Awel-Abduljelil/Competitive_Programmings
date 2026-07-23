@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [data structures](#data-structures) (2)
+- [data structures](#data-structures) (3)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [math](#math) (1)
 
@@ -29,8 +30,15 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1689B | [Mystic Permutation](https://codeforces.com/contest/1689/problem/B) | 900 | [PyPy 3-64](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/B%20-%20Mystic%20Permutation/solution.txt) |
 | 1722C | [Word Game](https://codeforces.com/contest/1722/problem/C) | 800 | [PyPy 3-64](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1722/C%20-%20Word%20Game/solution.txt) |
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [PyPy 3-64](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/2133/A%20-%20Redstone%3F/solution.txt) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1689B | [Mystic Permutation](https://codeforces.com/contest/1689/problem/B) | 900 | [PyPy 3-64](https://github.com/Awel-Abduljelil/Competitive_Programmings/blob/HEAD/1689/B%20-%20Mystic%20Permutation/solution.txt) |
 
 ### implementation
 

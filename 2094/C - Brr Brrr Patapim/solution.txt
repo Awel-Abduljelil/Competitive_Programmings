@@ -1,0 +1,17 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    G = []
+    for i in range(n):
+        a = list(map(int,input().split()))
+        G.append(a)
+    
+    sum_all=0
+    p = [0]*(2*n)
+    for i in range(n):
+        for j in range(n):
+            if  G[i][j] not in p:
+                sum_all += G[i][j]
+            p[i+j +1] = G[i][j]
+    p[0] =   (n*(2*n +1))-sum_all
+    print(*p)
